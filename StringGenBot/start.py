@@ -31,7 +31,7 @@ async def start(bot: Client, msg: Message):
                     InlineKeyboardButton(text="إضغط لبدا استخراج الكود", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("🦅 sᴏᴜʀᴄᴇ 🦅️", url="https://t.me/wolfchecker1"),
+                    InlineKeyboardButton("🦅 sᴏᴜʀᴄᴇ 🦅️", url="https://t.me/K_o_c_1"),
                     InlineKeyboardButton("🔱 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🔱", user_id=OWNER_ID)
                 ]
             ]
